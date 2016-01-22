@@ -1,5 +1,5 @@
 # react-reflux
-this is a demo that relize date show,add,delete and modify by react ，reflux and es6 of technology then pack it by webpack
+>>this is a demo that relize date show,add,delete and modify by react ，reflux and es6 of technology then pack it by webpack
 the next section is the show that the demo will run by the commands
 1:you should download nodejs via offical website and install it</br>
 2:install global webpack sudo(mac os or linux)`npm install -g webpack`</br>
