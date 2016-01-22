@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "react-reflux",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "css-loader": "^0.23.1",
+    "reflux": "^0.3.0",
+    "react": "^0.14.6",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "a test"
+  },
+  "author": "wangxupeng",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+body{
+	color:#996253;
+	width: 100%;
+}
+input{
+	border:1px solid #986523;
+}
+#app{
+	width: 100%;
+	margin:0 auto;
+}
